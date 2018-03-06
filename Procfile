@@ -1,1 +1,1 @@
-web: gunicorn tabapp.wsgi --log-file -
+web: gunicorn tapapp.wsgi --log-file -
