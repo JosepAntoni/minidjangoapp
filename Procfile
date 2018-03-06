@@ -1,0 +1,1 @@
+web: gunicorn tabapp.wsgi --log-file -
